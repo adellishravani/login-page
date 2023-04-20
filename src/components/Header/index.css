@@ -1,0 +1,24 @@
+.logo {
+  height: 50px;
+  width: 80px;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px;
+  margin: 2px;
+}
+.para {
+  font-size: 14px;
+  color: darkgray;
+}
+.logoutbtn {
+  padding: 4px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+}

@@ -1,0 +1,18 @@
+.heading {
+  color: #1e293b;
+  font-size: 25px;
+}
+.para {
+  color: blueviolet;
+  font-size: 15px;
+}
+.shopnwbtn {
+  background-color: blue;
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 3px;
+}
+.image {
+  height: 300px;
+  width: 280px;
+}
